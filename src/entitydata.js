@@ -22,7 +22,7 @@ export default {
         dashDuration: 50,
         dashPower: 40,
         dashPrepDist: 15000,
-        moveSpeed: 3
+        moveSpeed: 1
     },
     caster: {
         collider: {
